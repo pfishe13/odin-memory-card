@@ -1,4 +1,67 @@
+.App {
+  box-sizing: border-box;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #72243d;
+  color: #ba935c;
+  padding: 30px;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
+
 .cards-container {
+  width: 100%;
+  /* position: relative; */
+  /* height: 60%; */
+  /* width: 80%; */
+  /* width: fit-content; */
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 20px;
+}
+
+.cards-container > div {
+  /* width: auto; */
+  justify-self: stretch;
+  align-self: center;
+  padding-bottom: 12px;
+  border-radius: 30px;
+  background-color: #581d30;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  /* min-width: 200px; */
+  box-shadow: #ba935c 0 -12px 0 inset;
+}
+
+.cards-container > div:focus {
+  box-shadow: #ba935c 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px,
+    rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #ba935c 0 -12px 0 inset;
+}
+
+.cards-container > div:hover {
+  box-shadow: rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #ba935c 0 -12px 0 inset;
+  transform: translateY(-3px);
+}
+
+.cards-container > div:active {
+  transform: translateY(3px);
+}
+
+img {
+  height: auto;
+  width: 75%;
 }
