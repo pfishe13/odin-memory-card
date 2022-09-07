@@ -1,15 +1,27 @@
 {
   "files": {
     "main.css": "/odin-memory-card/static/css/main.a6f3a0ba.css",
-    "main.js": "/odin-memory-card/static/js/main.86e2abd9.js",
+    "main.js": "/odin-memory-card/static/js/main.da7ea04f.js",
     "static/js/787.66bce2f0.chunk.js": "/odin-memory-card/static/js/787.66bce2f0.chunk.js",
+    "static/media/jarrett-allen.png": "/odin-memory-card/static/media/jarrett-allen.b68b1fce483dc80e0b59.png",
+    "static/media/isaac-okoro.png": "/odin-memory-card/static/media/isaac-okoro.7eaa338aa7aadb23a343.png",
+    "static/media/dylan-windler.png": "/odin-memory-card/static/media/dylan-windler.1db56698d211602ddab6.png",
+    "static/media/kevin-love.png": "/odin-memory-card/static/media/kevin-love.3042b217f57d862498ce.png",
+    "static/media/cedi-osman.png": "/odin-memory-card/static/media/cedi-osman.e994f6f89b980addf7bd.png",
+    "static/media/darius-garland.png": "/odin-memory-card/static/media/darius-garland.05ce84dd57068dbb82d1.png",
+    "static/media/brandon-goodwin.png": "/odin-memory-card/static/media/brandon-goodwin.a77c7a27e5f1f2e314ab.png",
+    "static/media/lamar-stevens.png": "/odin-memory-card/static/media/lamar-stevens.f95b916e7892fc5f8b62.png",
+    "static/media/dean-wade.png": "/odin-memory-card/static/media/dean-wade.ebaa4f9753912d163295.png",
+    "static/media/evan-mobley.png": "/odin-memory-card/static/media/evan-mobley.97362e8ad4f946bce80d.png",
+    "static/media/caris-levert.png": "/odin-memory-card/static/media/caris-levert.a0eba850a329fecd36ec.png",
+    "static/media/rajon-rondo.png": "/odin-memory-card/static/media/rajon-rondo.170b93ac69986135e9d3.png",
     "index.html": "/odin-memory-card/index.html",
     "main.a6f3a0ba.css.map": "/odin-memory-card/static/css/main.a6f3a0ba.css.map",
-    "main.86e2abd9.js.map": "/odin-memory-card/static/js/main.86e2abd9.js.map",
+    "main.da7ea04f.js.map": "/odin-memory-card/static/js/main.da7ea04f.js.map",
     "787.66bce2f0.chunk.js.map": "/odin-memory-card/static/js/787.66bce2f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f3a0ba.css",
-    "static/js/main.86e2abd9.js"
+    "static/js/main.da7ea04f.js"
   ]
 }
